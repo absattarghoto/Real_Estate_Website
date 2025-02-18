@@ -2,7 +2,7 @@
 
 const StoreSection = () => {
   return (
-    <section className="py-12 px-[5%] lg:py-20 bg-[#F6F6F6]">
+    <section className="py-12 px-[5%] lg:py-20 ">
     <div className="flex flex-col lg:flex-row items-center gap-8 xl:gap-12 max-w-7xl mx-auto">
       {/* Content Section */}
       <div className="w-full lg:w-1/2">
