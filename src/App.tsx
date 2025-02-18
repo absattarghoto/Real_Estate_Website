@@ -2,6 +2,7 @@
 import AboutUs from "./Components/AboutUs/Index";
 import Crousel from "./Components/Crousel/Index";
 import FindServices from "./Components/FindServices/Index";
+import Footer from "./Components/Footer/Index";
 import Hero from "./Components/Hero/Imdex";
 import NavBar from "./Components/NavBar/Index";
 import NewsUp from "./Components/NewsUp/Index";
@@ -22,6 +23,7 @@ const App = () => {
    <StoreSection/>
    <NewsUp/>
    <ProjectSection/>
+   <Footer/>
     </>
   );
 }
