@@ -1,4 +1,5 @@
 
+import AboutUs from "./Components/AboutUs/Index";
 import Crousel from "./Components/Crousel/Index";
 import FindServices from "./Components/FindServices/Index";
 import Hero from "./Components/Hero/Imdex";
@@ -14,6 +15,7 @@ const App = () => {
    <Crousel/>
    <Services/>
    <FindServices/>
+   <AboutUs/>
     </>
   );
 }
