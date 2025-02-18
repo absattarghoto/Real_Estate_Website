@@ -5,6 +5,7 @@ import FindServices from "./Components/FindServices/Index";
 import Hero from "./Components/Hero/Imdex";
 import NavBar from "./Components/NavBar/Index";
 import Services from "./Components/Services/Index";
+import StoreSection from "./Components/StoreSection/Index";
 
 
 const App = () => {
@@ -16,6 +17,7 @@ const App = () => {
    <Services/>
    <FindServices/>
    <AboutUs/>
+   <StoreSection/>
     </>
   );
 }
