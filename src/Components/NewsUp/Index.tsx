@@ -30,7 +30,7 @@ const NewsUp: React.FC = () => {
       {/* Header Section */}
       <div >
         
-          <h1 className=" lg:pl-11 md:pl-[5%] text-3xl md:text-4xl lg:text-5xl font-semibold text-gray-900 leading-tight">
+          <h1 className="  pl-[5%] text-3xl md:text-4xl lg:text-5xl font-semibold text-gray-900 leading-tight">
           News & Update
           </h1>
         
